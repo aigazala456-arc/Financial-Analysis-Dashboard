@@ -31,7 +31,7 @@ The dataset includes:
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard](Financial Dashboard.jpg)
+![Dashboard](Dashboard.jpg)
 
 ---
 
